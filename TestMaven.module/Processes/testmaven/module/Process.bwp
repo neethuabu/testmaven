@@ -476,8 +476,8 @@
                                     <element href="//0/@process/@activity/@activity/@activities.0"/>
                                     <layoutConstraint
                                     height="40" width="40"
-                                    x="-17"
-                                    xsi:type="notation:Bounds" y="52"/>
+                                    x="-36"
+                                    xsi:type="notation:Bounds" y="53"/>
                                     </children>
                                     <children type="4002 bw.file.write">
                                     <children type="4017">
@@ -650,7 +650,7 @@
                                     <value append="true"
                                     compressFile="None"
                                     encoding="text"
-                                    fileName="C:\testmaven.txt" xsi:type="file:WriteFile"/>
+                                    fileName="C:\testmaven1.txt" xsi:type="file:WriteFile"/>
                                 </properties>
                             </activityConfig>
                         </bwext:BWActivity>
